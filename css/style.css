@@ -78,7 +78,10 @@ h3 {
   background-color: #0DCEDA;
   padding: 2rem;
   color: #EBFFFA;
-  width:30%;
+}
+
+.contact-message{
+  width: 30%;
 }
 
 .top-cloud {
